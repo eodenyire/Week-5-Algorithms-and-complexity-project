@@ -40,6 +40,8 @@ price (int): The price of the laptop in US dollars.
 The CSV file should have a header row that specifies the column names.
 
 Source data set: https://bit.ly/3G32iYj
+
+
 Colab shareable notebook: https://colab.research.google.com/drive/1fdINhMTCXIoicL6bw22bkLAo7SZHIPJU?usp=sharing
 
 We hope you find this project useful and informative. Happy coding!
